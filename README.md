@@ -83,7 +83,7 @@ _A verification code will be sent to you in your email to activate your account.
 ---
 
 # Demo Video Link
-[[Watch Demo Video Her](https://drive.google.com/file/d/1w9La4JLXZIyGT1uAqimcH4Ka4Fnju3FV/view?usp=sharing)](#)
+[[Watch Demo Video Here](https://drive.google.com/file/d/1w9La4JLXZIyGT1uAqimcH4Ka4Fnju3FV/view?usp=sharing)]
 
 ---
 
