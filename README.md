@@ -65,7 +65,8 @@ UI/UX Red-Yellow Theme
 
 The old design used overly pastel colors, which didn’t align well with the serious and formal nature of parole and probation work. So, we changed the theme to a red and yellow color scheme to reflect a more formal and straightforward look.
 
-![Uploading image.png…]()
+
+![Screenshot 2025-05-31 165424](https://github.com/user-attachments/assets/0c90c67a-8189-4119-83df-d2e9cb1c5646)
 
 
 We improved the buttons, tables, hover effects, and the overall look of the system.
