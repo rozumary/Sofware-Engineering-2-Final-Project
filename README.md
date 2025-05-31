@@ -89,47 +89,33 @@ _A verification code will be sent to you in your email to activate your account.
 
 # Folder Structure
 
-├── src/
-│   ├── assets/
-│   ├── database/
-│   ├── inc/
-│   ├── includes/
-│   ├── js/
-│   ├── phpmailer/
-│   ├── z_pages/
-│   ├── about_us.php
-│   ├── activate.php
-│   ├── add_admin.php
-│   ├── add_as_client.php
-│   ├── add_officers.php
-│   ├── add_petitioner.php
-│   ├── admin_dashboard.php
-│   └── archived_users.php
-│       # ...other PHP files
+
+├── src/                     
+│   ├── assets/              
+│   ├── database/            
+│   ├── inc/                 
+│   ├── includes/            
+│   ├── js/                  
+│   ├── phpmailer/           
+│   ├── z_pages/             
+│   ├── about_us.php         
+│   ├── activate.php         
+│   ├── add_admin.php        
+│   ├── add_as_client.php    
+│   ├── add_officers.php     
+│   ├── add_petitioner.php   
+│   ├── admin_dashboard.php  
+│   └── archived_users.php   # ...other PHP files
 │
-├── docs/
-│   ├── PPT Presentation.pdf
-│   ├── SRS.pdf
+├── docs/                   
+│   ├── PPT Presentation.pdf 
+│   ├── SRS.pdf <br/>              
 │   └── Technical Documentation.pdf
 │
 └── README.md
 
-How to fix the problem:
-
-Remove the <br/> tag — it breaks the tree.
-
-Keep each file/folder on its own line with consistent │ and spaces.
-
-Use └── for the last file or folder in a list.
-
-Avoid mixing text or comments inline on the same line as files or folders; put comments on a separate line if needed.
-
-
 
 ---
-
-Copy-paste this as-is into your README.md and it will render correctly on GitHub. Want me to help you add more sections (like usage, contributors, or installation)? Just tell me!
-
 
 ## Contributors
 - MONTESA – Developer, Documentation
