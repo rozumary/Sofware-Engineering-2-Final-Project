@@ -106,6 +106,7 @@ _A verification code will be sent to you in your email to activate your account.
 │   ├── admin_dashboard.php
 │   └── ...other php files
 
+
 │
 ├── docs/                   
 │   ├── PPT Presentation.pdf
@@ -113,6 +114,7 @@ _A verification code will be sent to you in your email to activate your account.
 │   └── Technical Documentation.pdf
 │
 └── README.md               
+
 
 
 ## Contributors
