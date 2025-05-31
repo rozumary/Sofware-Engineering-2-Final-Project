@@ -64,7 +64,7 @@ _We have implemented more than (1) one CS feature. Here is the summary:_
    `C:\xampp\htdocs\probation_project_v07`  
 4. Open your browser and navigate to:  
    `http://localhost/phpmyadmin`  
-5. Create a new database (e.g., `probation_db`).  
+5. Create a new database (ex: `probasyon_db`).  
 6. Click **Import** and select the `.sql` file from the project folder.  
 7. Open the project in **Visual Studio**.  
 8. Check the database connection string in your config files (update if needed).  
