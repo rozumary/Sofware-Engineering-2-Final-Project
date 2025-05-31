@@ -1,0 +1,9 @@
+{
+    "require": {
+        "twilio/sdk": "^7.13",
+        "notificationapi/notificationapi-php-server-sdk": "^0.1.0",
+        "infobip/infobip-api-php-client": "^5.1",
+        "tecnickcom/tcpdf": "^6.3"
+        
+    }
+}
