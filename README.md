@@ -46,7 +46,7 @@ _We have implemented more than (1) one CS feature. Here is the summary:_
 
 # III.  Updated UI/UX Screenshots (if applicable) - 100% Progress
 
-UI/UX Red-Yellow Theme
+**UI/UX Red-Yellow Theme**
 
 _The old design used overly pastel colors, which didn’t align well with the serious and formal nature of parole and probation work. So, we changed the theme to a red and yellow color scheme to reflect a more formal and straightforward look._
 
