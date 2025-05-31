@@ -1,4 +1,4 @@
-![Screenshot 2025-05-31 162311](https://github.com/user-attachments/assets/e01f02be-4226-4d9a-901c-1f4ee8ddb4aa)# Sofware-Engineering-2-Final-Project
+# Sofware-Engineering-2-Final-Project
 We are Group 2 from BSCS 3AIS. This repository contains our Software Engineering project, where we were tasked to improve the Client Appointment and Monitoring Management System for LPPO, a capstone project system originally developed by Gilbert C. Etalla, Jerwin R. Pontipedra, and Rana S. Edgar Jr.
 
 
