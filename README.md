@@ -1,4 +1,4 @@
-# Sofware-Engineering-2-Final-Project
+![Screenshot 2025-05-31 162311](https://github.com/user-attachments/assets/e01f02be-4226-4d9a-901c-1f4ee8ddb4aa)# Sofware-Engineering-2-Final-Project
 We are Group 2 from BSCS 3AIS. This repository contains our Software Engineering project, where we were tasked to improve the Client Appointment and Monitoring Management System for LPPO, a capstone project system originally developed by Gilbert C. Etalla, Jerwin R. Pontipedra, and Rana S. Edgar Jr.
 
 
@@ -68,28 +68,49 @@ The old design used overly pastel colors, which didn’t align well with the ser
 
 ![Screenshot 2025-05-31 165424](https://github.com/user-attachments/assets/0c90c67a-8189-4119-83df-d2e9cb1c5646)
 
+![Screenshot 2025-05-31 165558](https://github.com/user-attachments/assets/b8993849-fee2-4304-ba06-85206a9829a3)
+
 
 We improved the buttons, tables, hover effects, and the overall look of the system.
+![Screenshot 2025-05-31 175510](https://github.com/user-attachments/assets/6d7bca27-52be-4a86-a552-75d6defa5925)
 
+![Screenshot 2025-05-31 032827](https://github.com/user-attachments/assets/ae598407-09fa-4e9a-aa45-6c3d8a183920)
 
 This interface shown is for both admin and client side.
 IV.  Testing Approach and Results
 
 LPPO Assistant Bot
+![Screenshot 2025-05-31 161640](https://github.com/user-attachments/assets/304af5fb-1665-4cfb-b1b5-d3817f68e67c)
+![Screenshot 2025-05-31 161651](https://github.com/user-attachments/assets/e0bedbbf-e525-4151-b975-8e3d5e5985e8)
+
 Here, the user can type simple questions and concerns about probation. 
 Real-Time Search (For Admin)
+![Screenshot 2025-05-31 162311](https://github.com/user-attachments/assets/7eaa3b75-f3c0-40d2-9c5d-f310ec6ee511)
 
 Real-Time Search (For Client)
+![Screenshot 2025-05-31 032827](https://github.com/user-attachments/assets/5ca9cc44-3371-4eab-8c3b-770e81e66bc9)
+![Screenshot 2025-05-31 162311](https://github.com/user-attachments/assets/5aa971d4-0f54-448b-85c8-0ef4b18073d0)
+
 As recommended by the researcher, we replaced the previous method of clicking names and waiting for results with a real-time search feature. Now, users can simply type and instantly see the results, making the process faster and more convenient.
+
 Email Creation - Registration Form 
+![Screenshot 2025-05-31 162812](https://github.com/user-attachments/assets/005e8efa-e34c-4f2e-b25e-9ce63abfe56c)
 
 User registration panel.
+![Screenshot 2025-05-31 163759](https://github.com/user-attachments/assets/03314355-067f-4421-90f9-8bcf991b62d7)
+
 
 This is Email API Integration. Now, after clicking the registration, a code will be sent to their email. This code will then be used to verify and activate their account. Instead of clicking the xampp link which is less secure, the user can just type the code directly on the website and the process will continue smoothly.
+![Screenshot 2025-05-31 163451](https://github.com/user-attachments/assets/d74124eb-83ce-4abf-ad0d-8c512902a013)
 
 Old system email:
+![Screenshot 2025-05-31 164248](https://github.com/user-attachments/assets/3396204a-96e4-4316-a93d-093b32439eac)
 
 Now the user will just type the code to directly activate their account.
+
+![Screenshot 2025-05-31 163843](https://github.com/user-attachments/assets/099eb715-5a9a-44ee-a17c-944fe6d1ced8)
+
+![Screenshot 2025-05-31 163901](https://github.com/user-attachments/assets/1a506fe8-82fe-420a-abe7-a57cb8ed05d3)
 
 Now, a new account has been activated.
 
@@ -97,16 +118,19 @@ Now, a new account has been activated.
 
 Automated Parole Assignment
 
-
+![Screenshot 2025-05-31 173329](https://github.com/user-attachments/assets/c7e41f9d-0e5b-4a3e-8be4-139857d99d2e)
 
 We added Parole Officer Panel, so we can easily add, update or assign parole instead of manually adding them on SQL database. This way, we can easily assign parole based on their municipality/location.
+![Screenshot 2025-05-31 170600](https://github.com/user-attachments/assets/7b216d72-e75a-4e59-a678-0cf24346e694)
 
 So for example we are assigning based on Pila.
+![Screenshot 2025-05-31 170814](https://github.com/user-attachments/assets/26a81e8e-970d-48c2-aae7-9fb57ec21d02)
+
 Since user is from that location, there is specific parole officer assigned there automatically.
 
 
-
 So when we click Pila, the assigned parole is automatically listed.
+![Screenshot 2025-05-31 170957](https://github.com/user-attachments/assets/8a6ed557-ffa3-402e-96e7-f47f02efc617)
 
 
 This is based on what we added on the Parole Officer panel. We connected those databases to make this feature work correctly since syncing them both in area assignment was kind of challenging. So, in order to assign more parole officers, it’s up to the admin to add them to the panel, and this will automatically reflect on the system.
@@ -120,23 +144,31 @@ ADDITIONAL SECTIONS (BACKEND MANAGEMENT):
 
 Archive Accounts
 
+![Screenshot 2025-05-31 165950](https://github.com/user-attachments/assets/ed933e36-5af4-45d1-ada2-f21d2c66f260)
 
 It was also recommended by the researchers to implement a feature that tracks user inactivity.
 Denied Reason Section
+![Screenshot 2025-05-31 171222](https://github.com/user-attachments/assets/5160dbdd-be1e-4e9e-be8d-c57c8d670de8)
 
 Here we added the Reason Section why users get denied.
 Revoked Reason Section
+![Screenshot 2025-05-31 171337](https://github.com/user-attachments/assets/cf708247-00a3-4187-8b69-0d29123d4312)
 
 
 Here we added the Reason Section why users get revoked.
 
 
 Toggle Password Visibility
+
+![Screenshot 2025-05-31 172114](https://github.com/user-attachments/assets/8899b41f-5ac5-4d4b-868a-9df9aeb7be4b)
+
 Proper Message Popup
 
+![Screenshot 2025-05-31 172319](https://github.com/user-attachments/assets/ef049f0d-f2e5-4afc-ae57-3b25a12a4b79)
 
 
 Status of the Client
+![Screenshot 2025-05-31 172419](https://github.com/user-attachments/assets/fb0b8922-d8f2-4ed5-aa5f-0017431b52da)
 
 We also added a client status feature since the old system didn’t have that section. This way, users can easily see each client’s current status.
 V.  Technologies and Frameworks Used
