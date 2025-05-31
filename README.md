@@ -126,7 +126,7 @@ This is based on what we added on the Parole Officer panel. We connected those d
 
 
 
-ADDITIONAL SECTIONS (BACKEND MANAGEMENT):
+**ADDITIONAL SECTIONS (BACKEND MANAGEMENT):**
 
 Archive Accounts
 
