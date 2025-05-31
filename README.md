@@ -105,6 +105,7 @@ _A verification code will be sent to you in your email to activate your account.
 │   ├── add_petitioner.php   
 │   ├── admin_dashboard.php  
 │   └── archived_users.php   # ...other PHP files
+
 │
 ├── docs/                   
 │   ├── PPT Presentation.pdf 
