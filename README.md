@@ -90,30 +90,28 @@ _A verification code will be sent to you in your email to activate your account.
 # Folder Structure
 
 ├── src/                     
-│   ├── assets/
-│   ├── database/
-│   ├── inc/
-│   ├── includes/
-│   ├── js/
-│   ├── phpmailer/
-│   ├── z_pages/
-│   ├── about_us.php
-│   ├── activate.php
-│   ├── add_admin.php
-│   ├── add_as_client.php
-│   ├── add_officers.php
-│   ├── add_petitioner.php
-│   ├── admin_dashboard.php
-│   └── ...other php files
-
-
+│   ├── assets/              
+│   ├── database/            
+│   ├── inc/                 
+│   ├── includes/            
+│   ├── js/                  
+│   ├── phpmailer/           
+│   ├── z_pages/             
+│   ├── about_us.php         
+│   ├── activate.php         
+│   ├── add_admin.php        
+│   ├── add_as_client.php    
+│   ├── add_officers.php     
+│   ├── add_petitioner.php   
+│   ├── admin_dashboard.php  
+│   └── archived_users.php   # ...other PHP files
 │
 ├── docs/                   
-│   ├── PPT Presentation.pdf
-│   ├── SRS.pdf
+│   ├── PPT Presentation.pdf 
+│   ├── SRS.pdf              
 │   └── Technical Documentation.pdf
 │
-└── README.md               
+└── README.md
 
 
 
