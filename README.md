@@ -74,10 +74,11 @@ _We have implemented more than (1) one CS feature. Here is the summary:_
 ---
 
 ## Default Login (For Testing)
-**Admin**  
-- **Username**: `admin`  
-- **Password**: `admin123`  
+**Create your own account**  
+- **Username**: `sample@gmail.com`  
+- **Password**: `Sample#123`  
 
+_A verification code will be sent to you in your email to activate your account._
 
 ---
 
