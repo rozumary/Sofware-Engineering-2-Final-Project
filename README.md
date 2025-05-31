@@ -27,7 +27,7 @@ _We have implemented more than (1) one CS feature. Here is the summary:_
 | LPPO Assistant Chatbot         | Machine Learning      | This simple chatbot helps users interact with the system more efficiently compared to FAQ’s with more limited information. |
 | Email Code Verification OTP    | Security Enhancement  | Instead of using the usual XAMPP link for verification (as we’ve seen in the old system) we implemented OTP for direct verification. It's a more secure and convenient way for users to activate their account. |
 | Real-time Search (Admin/Client)| Automation           | As requested by the researchers, we created real time search, allowing users to see search results as they type. Helpful for fast data access. |
-| Automated Parole Assignment    | Automation           | Also recommended by the researchers, the goal of this feature is to automatically assign clients to officers based on certain conditions like location. |
+| Automated Parole Assignment + Parole Officer Panel    | Automation           | Also recommended by the researchers, the goal of this feature is to automatically assign clients to officers based on certain conditions like location. |
 | Database Optimization (Officer, Area Assignment tables) | Database Optimization | We improved the database by adding normalized tables. We added tables and more queries for better data flow. |
 | Email Recipient from API       | Cloud Integration     | This connects to an external email API to handle email delivery. We use our own Gmail API, so we can have full access and control. |
 | Assistant Bot Typing Animation | UI/UX                 | Just a basic animation, to make the chatbot look more interactive.                                     |
@@ -35,7 +35,7 @@ _We have implemented more than (1) one CS feature. Here is the summary:_
 | UI Redesign (Red-Yellow theme) | UI/UX                 | We changed the UI to match the formal tone needed for parole and probation work.                       |
 | Client Status + Proper Message Popup | Backend Management | Improves the way users receive feedback on their actions.                                             |
 | CRUD Enhancement              | Backend Management    | The system doesn’t have a complete set of CRUD so we added more CRUD functionality.                    |
-| Archive, Denied, and Revoked Sections | Backend Management | These features help organize user status better.                                                      |
+| Denied and Revoked Sections | Backend Management | These features help organize user status better.                                                      |
 | Archived User Section          | Backend Management    | We also added an archive user section so we can see inactive users easily.                            |
 
 
