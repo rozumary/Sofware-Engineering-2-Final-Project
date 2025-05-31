@@ -38,7 +38,7 @@ System Overview and Architecture
 This study presents the development and evaluation of a web-based Client Appointment and Monitoring Management System with SMS Notification designed specifically for the Laguna Parole and Probation Office (LPPO) in Sta. Cruz, Laguna, a capstone project system originally developed by Gilbert C. Etalla, Jerwin R. Pontipedra, and Rana S. Edgar Jr.
 Our goal on the other hand, is to enhance the system’s overall performance, user interface and other features for the LPPO. With Computer Science implementation, this improved version aims to make client scheduling more efficient, reduce missed appointments and help staff manage records more effectively.
 
-Summary of Enhancements and Rationale
+#Summary of Enhancements and Rationale
 
 We have implemented more than (1) one CS feature. Here is the summary: 
 | Feature/Enhancement            | CS Concept            | What we did                                                                                             |
