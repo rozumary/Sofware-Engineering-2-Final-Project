@@ -55,7 +55,7 @@ _We have implemented more than (1) one CS feature. Here is the summary:_
 - **RAM**: At least 4GB  
 - **XAMPP**: PHP 7.4+ and MySQL  
 - **Visual Studio**: 2019 or later  
-- **Web browser**: Chrome or Firefox recommended  
+- **Web browser**: Chrome or Edge recommended  
 
 # How to Use / Run the Project 
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html).  
