@@ -38,7 +38,7 @@ Teano, Aedran Gabriel
 This study presents the development and evaluation of a web-based Client Appointment and Monitoring Management System with SMS Notification designed specifically for the Laguna Parole and Probation Office (LPPO) in Sta. Cruz, Laguna, a capstone project system originally developed by Gilbert C. Etalla, Jerwin R. Pontipedra, and Rana S. Edgar Jr.
 Our goal on the other hand, is to enhance the system’s overall performance, user interface and other features for the LPPO. With Computer Science implementation, this improved version aims to make client scheduling more efficient, reduce missed appointments and help staff manage records more effectively.
 
-#Summary of Enhancements and Rationale
+# Summary of Enhancements and Rationale
 
 We have implemented more than (1) one CS feature. Here is the summary: 
 | Feature/Enhancement            | CS Concept            | What we did                                                                                             |
@@ -59,7 +59,7 @@ We have implemented more than (1) one CS feature. Here is the summary:
 
 
 
-III.  Updated UI/UX Screenshots (if applicable) - 100% Progress
+# III.  Updated UI/UX Screenshots (if applicable) - 100% Progress
 
 UI/UX Red-Yellow Theme
 
@@ -77,7 +77,7 @@ We improved the buttons, tables, hover effects, and the overall look of the syst
 ![Screenshot 2025-05-31 032827](https://github.com/user-attachments/assets/ae598407-09fa-4e9a-aa45-6c3d8a183920)
 
 This interface shown is for both admin and client side.
-IV.  Testing Approach and Results
+# IV.  Testing Approach and Results
 
 LPPO Assistant Bot
 ![Screenshot 2025-05-31 161640](https://github.com/user-attachments/assets/304af5fb-1665-4cfb-b1b5-d3817f68e67c)
@@ -171,7 +171,8 @@ Status of the Client
 ![Screenshot 2025-05-31 172419](https://github.com/user-attachments/assets/fb0b8922-d8f2-4ed5-aa5f-0017431b52da)
 
 We also added a client status feature since the old system didn’t have that section. This way, users can easily see each client’s current status.
-V.  Technologies and Frameworks Used
+
+# V.  Technologies and Frameworks Used
 Visual Studio – for system development
 
 
