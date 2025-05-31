@@ -89,11 +89,23 @@ _A verification code will be sent to you in your email to activate your account.
 
 # Folder Structure
 
-
 ├── src/                     
-│   ├── assets/             
-│   ├── database/                 
-│   └── ...                 # Other source code files
+│   ├── assets/
+│   ├── database/
+│   ├── inc/
+│   ├── includes/
+│   ├── js/
+│   ├── phpmailer/
+│   ├── z_pages/
+│   ├── about_us.php
+│   ├── activate.php
+│   ├── add_admin.php
+│   ├── add_as_client.php
+│   ├── add_officers.php
+│   ├── add_petitioner.php
+│   ├── admin_dashboard.php
+│   └── ...other php files
+
 │
 ├── docs/                   
 │   ├── PPT Presentation.pdf
