@@ -112,7 +112,6 @@ _A verification code will be sent to you in your email to activate your account.
 │   ├── SRS.pdf              
 │   └── Technical Documentation.pdf
 
-
 ├── README.md                    
 
 
