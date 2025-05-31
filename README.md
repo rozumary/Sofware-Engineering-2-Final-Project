@@ -6,33 +6,20 @@ We are Group 2 from BSCS 3AIS. This repository contains our Software Engineering
 
 
 CMSC 311 – Software Engineering
-Final Project
+Final Project :** Client Appointment and Monitoring Management System for Laguna Parole and Probation Office with SMS Notification 
+**
 
 
+**Submitted to:**  
+Ms. Micah Joy P. Formaran  
 
-
-Client Appointment and Monitoring Management System for Laguna Parole and Probation Office with SMS Notification 
-
-
-Software Requirements Specification (SRS)
-
-
-
-Submitted to: 
-Ms. Micah Joy P. Formaran
-
-
-
-					
-
-Submitted by: 
-
-BSCS 3A-IS
-Angeles, Khatrina
-Lat, Betina Grace C
-Montesa, Rosemarie D.
-Pino, Renalyn N.
-Teano, Aedran Gabriel 
+**Submitted by:**  
+BSCS 3A-IS  
+- Angeles, Khatrina  
+- Lat, Betina Grace C.  
+- Montesa, Rosemarie D.  
+- Pino, Renalyn N.  
+- Teano, Aedran Gabriel  
 
 # I. System Overview and Architecture
 This study presents the development and evaluation of a web-based Client Appointment and Monitoring Management System with SMS Notification designed specifically for the Laguna Parole and Probation Office (LPPO) in Sta. Cruz, Laguna, a capstone project system originally developed by Gilbert C. Etalla, Jerwin R. Pontipedra, and Rana S. Edgar Jr.
