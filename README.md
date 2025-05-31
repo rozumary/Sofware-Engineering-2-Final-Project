@@ -5,7 +5,7 @@ We are Group 2 from BSCS 3AIS. This repository contains our Software Engineering
 			
 
 
-# Title: **Client Appointment and Monitoring Management System for Laguna Parole and Probation Office with SMS Notification**
+# **Client Appointment and Monitoring Management System for Laguna Parole and Probation Office with SMS Notification (Improved)**
 
 
 **Submitted to:**  
