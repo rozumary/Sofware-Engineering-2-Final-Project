@@ -108,7 +108,7 @@ _A verification code will be sent to you in your email to activate your account.
 │   └── archived_users.php   # ...other PHP files
 │
 
-├── docs/ <br/>                  
+├── docs/             
 │   ├── PPT Presentation.pdf<br/>
 │   ├── SRS.pdf             
 │   └── Technical Documentation.pdf
