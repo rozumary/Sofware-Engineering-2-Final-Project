@@ -50,7 +50,7 @@ We have implemented more than (1) one CS feature. Here is the summary:
 
 UI/UX Red-Yellow Theme
 
-The old design used overly pastel colors, which didn’t align well with the serious and formal nature of parole and probation work. So, we changed the theme to a red and yellow color scheme to reflect a more formal and straightforward look.
+_The old design used overly pastel colors, which didn’t align well with the serious and formal nature of parole and probation work. So, we changed the theme to a red and yellow color scheme to reflect a more formal and straightforward look._
 
 
 ![Screenshot 2025-05-31 165424](https://github.com/user-attachments/assets/0c90c67a-8189-4119-83df-d2e9cb1c5646)
@@ -58,7 +58,7 @@ The old design used overly pastel colors, which didn’t align well with the ser
 ![Screenshot 2025-05-31 165558](https://github.com/user-attachments/assets/b8993849-fee2-4304-ba06-85206a9829a3)
 
 
-We improved the buttons, tables, hover effects, and the overall look of the system.
+_We improved the buttons, tables, hover effects, and the overall look of the system._
 ![Screenshot 2025-05-31 175510](https://github.com/user-attachments/assets/6d7bca27-52be-4a86-a552-75d6defa5925)
 
 ![Screenshot 2025-05-31 032827](https://github.com/user-attachments/assets/ae598407-09fa-4e9a-aa45-6c3d8a183920)
@@ -212,4 +212,8 @@ We also added a client status feature since the old system didn’t have that se
 - PINO– Documentation
 - ANGELES – Contributor
 - TEANO - Contributor
+
+---
+
+© 2025 BSCS 3A-IS | All rights reserved.
 
