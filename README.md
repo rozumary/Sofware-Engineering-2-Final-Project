@@ -108,9 +108,10 @@ _A verification code will be sent to you in your email to activate your account.
 
 │
 ├── docs/                   
-│   ├── PPT Presentation.pdf 
+│   ├── PPT Presentation.pdf <br/>
 │   ├── SRS.pdf              
 │   └── Technical Documentation.pdf
+
 
 │
 └── README.md
