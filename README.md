@@ -107,10 +107,11 @@ _A verification code will be sent to you in your email to activate your account.
 │   └── archived_users.php   # ...other PHP files
 
 │
-├── docs/                   
-│   ├── PPT Presentation.pdf <br/>
-│   ├── SRS.pdf              
+├── docs/
+│   ├── PPT Presentation.pdf
+│   ├── SRS.pdf
 │   └── Technical Documentation.pdf
+│
 
 ├── README.md                    
 
