@@ -94,10 +94,9 @@ Real-Time Search (For Client)
 As recommended by the researcher, we replaced the previous method of clicking names and waiting for results with a real-time search feature. Now, users can simply type and instantly see the results, making the process faster and more convenient.
 
 Email Creation - Registration Form 
-![Screenshot 2025-05-31 162812](https://github.com/user-attachments/assets/005e8efa-e34c-4f2e-b25e-9ce63abfe56c)
+![Screenshot 2025-05-31 162951](https://github.com/user-attachments/assets/948cd478-32f9-4f88-8734-3a11953f20d2)
 
 User registration panel.
-![Screenshot 2025-05-31 163759](https://github.com/user-attachments/assets/03314355-067f-4421-90f9-8bcf991b62d7)
 
 
 This is Email API Integration. Now, after clicking the registration, a code will be sent to their email. This code will then be used to verify and activate their account. Instead of clicking the xampp link which is less secure, the user can just type the code directly on the website and the process will continue smoothly.
@@ -172,91 +171,58 @@ Status of the Client
 
 We also added a client status feature since the old system didn’t have that section. This way, users can easily see each client’s current status.
 
-# V.  Technologies and Frameworks Used
-Visual Studio – for system development
+
+## Technologies Used
+- **XAMPP** – to run the local server environment  
+- **MySQL** – for storing the system’s database  
+- **phpMyAdmin** – for managing the database through a web interface  
+- **SQL Database** – with added tables  
+- **Visual Studio 2019 or later** – for editing and managing the project  
+
+---
+
+## Installation Instructions
+
+### System Requirements
+- **OS**: Windows 10 or later  
+- **RAM**: At least 4GB  
+- **XAMPP**: PHP 7.4+ and MySQL  
+- **Visual Studio**: 2019 or later  
+- **Web browser**: Chrome or Firefox recommended  
+
+### How to Use / Run the Project 
+1. Download and install [XAMPP](https://www.apachefriends.org/index.html).  
+2. Open the XAMPP Control Panel and start **Apache** and **MySQL**.  
+3. Copy the project folder to:  
+   `C:\xampp\htdocs\probation_project_v07`  
+4. Open your browser and navigate to:  
+   `http://localhost/phpmyadmin`  
+5. Create a new database (e.g., `probation_db`).  
+6. Click **Import** and select the `.sql` file from the project folder.  
+7. Open the project in **Visual Studio**.  
+8. Check the database connection string in your config files (update if needed).  
+9. Run the project via browser at:  
+   `http://localhost/probation_project_v07`  
+
+---
+
+## Default Login (For Testing)
+**Admin**  
+- **Username**: `admin`  
+- **Password**: `admin123`  
 
 
-XAMPP – to run the local server environment
+---
 
+## Demo Video Link
+[Watch Demo Video Here](#) *(Insert YouTube or drive link)*
 
-MySQL – for storing the system’s database
+---
 
+## Contributors
+- MONTESA – Developer  
+- LAT – Documentation
+- PINO– Documentation
+- ANGELES – Contributor
+- TEANO - Contributor
 
-phpMyAdmin – for managing the database through a web interface
-
-
-SQL DATABASE (with added tables)
-
-
-
-
-
-
-
-
-
-
-
-
-
-VI. Developer Notes / Installation Instructions
-a. System Requirements:
-OS: Windows 10 or later
-
-
-RAM: At least 4GB
-
-
-XAMPP (PHP 7.4+ and MySQL)
-
-
-Visual Studio (2019 or later)
-
-
-Web browser (Chrome or Firefox recommended)
-
-
-b. Installation Steps:
-Download and install XAMPP.
-
-
-Open the XAMPP Control Panel, then start Apache and MySQL.
-
-
-Copy the project folder to the following directory:
- C:\xampp\htdocs\probation_project_v07
-
-
-Open your browser and go to localhost/phpmyadmin.
-
-
-Create a new database (e.g., probation_db).
-
-
-Click Import and select the .sql file from the project folder to load the database.
-
-
-Open the project in Visual Studio.
-
-
-Check the database connection string in your config files (if needed, update it to match your MySQL settings).
-
-
-Run the project via browser at http://localhost/probation_project_v07.
-
-
-c. Default Login (for testing):
-Admin:
-
-
-Username: admin
-
-
-Password: admin123
-
-
-d. Developer Notes:
-Make sure PHP and MySQL versions are compatible.
-You can edit the Main CSS design under template not the Assets one (under Assets are for selected designs only)
-Keep your database and source code in sync if changes are made.
-Follow consistent naming conventions in database fields.
