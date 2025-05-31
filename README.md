@@ -107,52 +107,11 @@ _A verification code will be sent to you in your email to activate your account.
 │   └── archived_users.php
 │
 ├── docs/
-│   ├── PPT Presentation.pdf
+│   ├── PPT Presentation.pdf <br/>
 │   ├── SRS.pdf
 │   └── Technical Documentation.pdf
 │
 └── README.md
-
-Notes:
-
-I fixed the line breaks and indentation.
-
-Removed the misplaced <br/> tag — GitHub markdown folder trees usually just need spaces and lines.
-
-Made sure the docs/ folder is separate from src/.
-
-Removed any trailing text on the same lines for clarity.
-
-
-You can just copy-paste this directly into your README.md and it’ll show well on GitHub! Need help adding more sections or styling? Just ask!
-
-
-
-├── src/                     
-│   ├── assets/              
-│   ├── database/            
-│   ├── inc/                 
-│   ├── includes/            
-│   ├── js/                  
-│   ├── phpmailer/           
-│   ├── z_pages/             
-│   ├── about_us.php         
-│   ├── activate.php         
-│   ├── add_admin.php        
-│   ├── add_as_client.php    
-│   ├── add_officers.php     
-│   ├── add_petitioner.php   
-│   ├── admin_dashboard.php  
-│   └── archived_users.php   # ...other PHP files
-
-│
-├── docs/
-│   ├── PPT Presentation.pdf<br/>
-│   ├── SRS.pdf 
-│   └── Technical Documentation.pdf
-│
-
-├── README.md                    
 
 
 ## Contributors
