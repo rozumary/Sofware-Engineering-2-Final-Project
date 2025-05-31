@@ -57,7 +57,7 @@ _We have implemented more than (1) one CS feature. Here is the summary:_
 - **Visual Studio**: 2019 or later  
 - **Web browser**: Chrome or Firefox recommended  
 
-# V. How to Use / Run the Project 
+# How to Use / Run the Project 
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html).  
 2. Open the XAMPP Control Panel and start **Apache** and **MySQL**.  
 3. Copy the project folder to:  
