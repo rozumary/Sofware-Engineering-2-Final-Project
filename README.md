@@ -1,4 +1,4 @@
-# Sofware Engineering 2: Final Project in CMSC 311
+# CMSC 311: Final Project in Sofware Engineering 2
 We are **Group 2** from BSCS 3A-IS. This repository contains our Software Engineering project, where we were tasked to improve the Client Appointment and Monitoring Management System for LPPO, a capstone project system originally developed by Gilbert C. Etalla, Jerwin R. Pontipedra, and Rana S. Edgar Jr.
 
 # **Client Appointment and Monitoring Management System for Laguna Parole and Probation Office with SMS Notification (Enhanced)**
