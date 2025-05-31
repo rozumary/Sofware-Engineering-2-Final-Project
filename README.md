@@ -6,8 +6,7 @@ We are Group 2 from BSCS 3AIS. This repository contains our Software Engineering
 
 
 CMSC 311 – Software Engineering
-Final Project :** Client Appointment and Monitoring Management System for Laguna Parole and Probation Office with SMS Notification 
-**
+Final Project :** Client Appointment and Monitoring Management System for Laguna Parole and Probation Office with SMS Notification**
 
 
 **Submitted to:**  
