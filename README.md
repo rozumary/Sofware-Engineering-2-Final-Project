@@ -88,9 +88,9 @@ _A verification code will be sent to you in your email to activate your account.
 ---
 
 ## Contributors
-- MONTESA – Developer  
-- LAT – Documentation
-- PINO– Documentation
+- MONTESA – Developer, Documentation
+- LAT – Tester, Documentation 
+- PINO – Tester, Documentation 
 - ANGELES – Contributor
 - TEANO - Contributor
 
