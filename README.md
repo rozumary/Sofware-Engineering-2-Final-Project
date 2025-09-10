@@ -120,7 +120,7 @@ _A verification code will be sent to you in your email to activate your account.
 ---
 
 ## Contributors
-- MONTESA – Developer, Documentation
+- MONTESA – Full-Stack Developer, Documentation
 - LAT – Tester, Documentation 
 - PINO – Tester, Documentation 
 - ANGELES – Contributor
